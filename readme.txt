@@ -29,4 +29,4 @@ Feel free to use, modify, and share the script as you like!
 
 ---
 
-Author: Sean Neville
+Author: SM
