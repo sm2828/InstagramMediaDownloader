@@ -13,13 +13,13 @@ Before running the script, make sure you have the following:
 
 1. Clone this repository to your local machine.
 
-2. Open the script `InstagramScraper.py` in a text editor.
+2. Open the script `InstagramScraper.py`.
 
 3. Run the script.
 
 4. Enter the username in the terminal.
 
-5. The script will create a folder named `username_images` in the same directory and save the downloaded images there.
+5. The script will create a folder named `username_images` in the same directory and save the downloaded media there.
 
 ## Disclaimer
 
